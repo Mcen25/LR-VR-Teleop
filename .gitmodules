@@ -1,0 +1,6 @@
+[submodule "LRVR/Assets/LRVR/Assets/SO-ARM100"]
+	path = LRVR/Assets/LRVR/Assets/SO-ARM100
+	url = https://github.com/TheRobotStudio/SO-ARM100.git
+[submodule "LRVR/Assets/SO-ARM100"]
+	path = LRVR/Assets/SO-ARM100
+	url = https://github.com/TheRobotStudio/SO-ARM100.git
